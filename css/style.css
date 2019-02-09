@@ -45,6 +45,15 @@ body {
   border-radius: 0%;
 }
 
+.blurb
+{
+  border-style: solid;
+  border-width: 1px;
+  padding: 5px;
+  margin: 25px;
+  text-align: center;
+}
+
 .post img {
   max-width: 100%;
 }
