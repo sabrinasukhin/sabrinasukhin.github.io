@@ -8,7 +8,7 @@ body {
   padding: 0 1em 1em 1em;
 }
 
-.boxed
+div.boxed
 {
   border: 1px black;
 }
